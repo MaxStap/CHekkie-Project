@@ -15,7 +15,7 @@ namespace CHekkie.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Ticho heeft n kut kop";
 
             return View();
         }
